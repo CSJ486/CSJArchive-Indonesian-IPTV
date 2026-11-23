@@ -10,6 +10,7 @@ Movies (Cuma 1 deh...)
 Sports (10+ itu diambil oleh `beetv.my.id`)
 DensTV (43 itu diambil oleh `dens.tv`)
 CCTV (160 disini ada Merekam footage yang berada di-lokasi Gunung Kidul, Yogyakarta)
+Plus, ada EPG-nya. itu diambil oleh @dhanytv dari GitHub
 
 Link-nya disini:
 `https://raw.githubusercontent.com/CSJ486/CSJArchive-Indonesian-IPTV/main/CSJArchive-Indonesian-IPTV.m3u`
