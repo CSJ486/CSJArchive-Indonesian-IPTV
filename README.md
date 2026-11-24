@@ -13,6 +13,6 @@ Disini ada channel berada dikoleksi:
 - Plus, ada EPG-nya. itu diambil oleh @dhanytv dari GitHub
 
 Link-nya disini:
-[`https://raw.githubusercontent.com/CSJ486/CSJArchive-Indonesian-IPTV/main/CSJArchive-Indonesian-IPTV.m3u`](`https://raw.githubusercontent.com/CSJ486/CSJArchive-Indonesian-IPTV/main/CSJArchive-Indonesian-IPTV.m3u`)
+[https://raw.githubusercontent.com/CSJ486/CSJArchive-Indonesian-IPTV/main/CSJArchive-Indonesian-IPTV.m3u](https://raw.githubusercontent.com/CSJ486/CSJArchive-Indonesian-IPTV/main/CSJArchive-Indonesian-IPTV.m3u)
 Atau link-nya di Pastebin:
-[`https://pastebin.com/raw/xUHcWYep`](`https://pastebin.com/raw/xUHcWYep`)
+[https://pastebin.com/raw/xUHcWYep](https://pastebin.com/raw/xUHcWYep)
