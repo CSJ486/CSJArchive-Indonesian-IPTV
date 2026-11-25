@@ -12,7 +12,7 @@ Disini ada channel berada dikoleksi:
 - CCTV (160 disini ada Merekam footage yang berada di-lokasi Gunung Kidul, Yogyakarta)
 - Plus, ada EPG-nya. itu diambil oleh @dhanytv dari GitHub (Maaf ya, gua gak bisa dibikin EPG-nya sendiri)
 
-Link-nya disini:
+- Link-nya disini:
 [https://raw.githubusercontent.com/CSJ486/CSJArchive-Indonesian-IPTV/main/CSJArchive-Indonesian-IPTV.m3u](https://raw.githubusercontent.com/CSJ486/CSJArchive-Indonesian-IPTV/main/CSJArchive-Indonesian-IPTV.m3u)
-Atau link-nya di Pastebin:
+- Atau link-nya di Pastebin:
 [https://pastebin.com/raw/xUHcWYep](https://pastebin.com/raw/xUHcWYep)
