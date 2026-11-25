@@ -2,7 +2,7 @@
 - ENG: This is an M3U that uses IPTV for Indonesian television.
 - IND: Ini adalah M3U yang pake IPTV untuk buatan Indonesia
 
-Channel ini gua akan ditambah dan diupdate pada pukul seberapapun (Maupun GitHub dan Pastebin), kalau channel akan mati sementara. (Maaf-nya, lo gak bisa menambah dan diperbaiki dari GitHub Issues. tapi, gua ditambah dan diperbaiki dari channel-nya sendiri.) 
+Channel ini gua akan ditambah dan diupdate pada pukul seberapapun (Maupun GitHub dan Pastebin), kalau channel akan mati sementara. (Maaf-nya, lo gak bisa menambah dan diperbaiki dari GitHub Issues. tapi, gua ditambah dan diperbaiki dari channel-nya sendiri. Susah menambah atau diperbaiki favorit channel lo.)
 
 Disini ada channel berada dikoleksi:
 - TV Nasional (30+)
