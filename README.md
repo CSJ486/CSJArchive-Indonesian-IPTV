@@ -1,4 +1,4 @@
-# (Baru) CSJArchive Indonesian IPTV (Sejak bulan Mei) #
+# (Baru) CSJArchive Indonesian IPTV (Dibuat sejak bulan Mei) #
 - ENG: This is an M3U that uses IPTV for Indonesian television.
 - IND: Ini adalah M3U yang pake IPTV untuk buatan Indonesia
 
