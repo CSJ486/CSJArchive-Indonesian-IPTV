@@ -19,13 +19,13 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-origin=https://www.vidio.com/
 https://vidio123.mikrofast.web.id/vidio/875/index.mpd
 #EXTINF:-1 tvg-name="RCTI.id" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="📺 Nasional",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rplus.inisemar.my.id/rcti.m3u8/
+https://poclive.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1795891976~hmac=b2c7100ac40253f05badc16d10725b4f40a11ce287d004c0e79538579a0fb358
 #EXTINF:-1 tvg-name="RCTI.id" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="📺 Nasional",RCTI (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://linier-rcti.rctiplus.id/rcti-sdi-avc1_1000000=17-mp4a_96000=1.m3u8
+https://poclive.rctiplus.id/rcti-sdi-avc1_1000000=17-mp4a_96000=1.m3u8?hdnts=exp=1795891976~hmac=6666ece64718ee390ea56f204512611bf95a73cdada3b69f8f97644d2d2f633e
 #EXTINF:-1 tvg-name="RCTI.id" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="📺 Nasional",RCTI (Alt 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -54,6 +54,9 @@ https://linier-gtv.rctiplus.id/gtv-sdi-avc1_1000000=7-mp4a_96000=1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#EXTINF:-1 tvg-name="GTV.id" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="📺 Nasional",GTV (IndoVision)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://103.165.207.108:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-name="iNews.id" tvg-logo="https://images.indihometv.com/logo_inews_big.png" group-title="📺 Nasional",iNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
